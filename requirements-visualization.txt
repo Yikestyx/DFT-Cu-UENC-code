@@ -1,0 +1,9 @@
+ase
+matplotlib
+numpy
+openpyxl
+pandas
+Pillow
+pyautogui
+pymatgen
+python-pptx

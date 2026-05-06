@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Editors
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated scientific outputs
+*.pptx
+*.png
+*.jpg
+*.jpeg
+*.log
+*.tmp
+*.xlsx
+*.xlsm
+
+# Archives and exports
+*.zip
+
+# Calculation directories and large local artifacts
+workflows/structure_visualization/__pycache__/
+
+# AGENT
+AGENTS.md
