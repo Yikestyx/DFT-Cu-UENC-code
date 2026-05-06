@@ -1,6 +1,6 @@
 # DFT Workflow Toolkit
 
-Personal scripts for day-to-day DFT work, organized by workflow stage instead of by language. The repository centers on VASP calculation setup, result collection, energy-table analysis, structure visualization, and a few standalone utilities for conversion or manual review.
+Personal scripts for day-to-day DFT work. The repository centers on VASP calculation setup, result collection, energy-table analysis, structure visualization, and a few standalone utilities for conversion or manual review.
 
 This is still a personal research toolbox, but the layout and documentation are being cleaned up so individual parts are easier to understand, reuse, and adapt.
 
